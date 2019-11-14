@@ -33,5 +33,12 @@
     "artist": "BSB",
     "releaseDate": "2017",
     "lyricsFile": "new-song.txt"
+  },
+  {
+    "id": 6,
+    "title": "Everything I Wanted",
+    "artist": "someone",
+    "releaseDate": "2018",
+    "lyricsFile": "everything-i-wanted.txt"
   }
 ]
